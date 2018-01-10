@@ -1,0 +1,21 @@
+{
+    "name": "daidai118/pay",
+    "description": "Pay solution for Yii2, support Wxpay and Alipay",
+    "type": "library",
+    "require": {
+        "php": ">=5.5.0",
+        "yiisoft/yii2": ">=2.0.6",
+        "yiisoft/yii2-httpclient": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tlanyan",
+            "email": "tlanyan@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"tlanyan\\": ""}
+    }
+}
